@@ -1,6 +1,6 @@
 # Custom-List-View
 
-It is possible to get a custom List view in SwiftUI that looks like the one below! 
+It is possible to get a custom List view in SwiftUI that looks like the one below!! 
 
 Examine the codes.
 
